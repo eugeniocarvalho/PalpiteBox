@@ -45,7 +45,7 @@ const Pesquisa = () => {
             <h1 className='text-center font-bold my-4 text-2xl'>Críticas e sugestôes</h1>
             <p className='text-center mb-10'>O restaurante X sempre busca atender melhor seus clientes. <br /> Por isso, estamos sempre abertos a ouvir a sua opinião</p>
             {!sucess &&
-                <div className='w-auto my-auto ml-16 mr-16 mx-auto sm:1/3 sm:mx-center md:w-1/6 md:mx-auto text-center'>
+                <div className='sm:w-auto my-auto ml-16 mr-16 mx-auto sm:1/3 sm:mx-center md:w-1/6 md:mx-auto'>
                     <label className='font-bold'>Seu nome: </label>
                     <input type='text' className='p-4 block shadow bg-blue-100 my-2 rounded' placeholder='Nome' onChange={onChange} name='Nome' value={form.Nome} />
                     <label className='font-bold'>E-mail: </label>
