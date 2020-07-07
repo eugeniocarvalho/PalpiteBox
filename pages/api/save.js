@@ -42,7 +42,8 @@ export default async (req, res) => {
             Cupom,
             Promo,
             Nota: parseInt(data.Nota),
-            'Data Preenchimento': moment().format('DD/MM/YYYY, HH:mm:ss')
+            'Data Preenchimento': moment().format('DD/MM/YYYY, HH:mm:ss'),
+            Feedback: data.Feedback 
 
         })
         res.end(JSON.stringify({
