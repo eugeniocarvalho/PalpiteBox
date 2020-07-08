@@ -42,7 +42,7 @@ export default async (req, res) => {
             Cupom,
             Promo,
             Nota: parseInt(data.Nota),
-            'Data Preenchimento': moment().utc().format('DD/MM/YYYY, HH:mm:ss'),
+            'Data Preenchimento': moment().format('l LTS'),
             Feedback: data.Feedback 
 
         })
