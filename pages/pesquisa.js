@@ -58,7 +58,7 @@ const Pesquisa = () => {
     return (
         <React.Fragment>
             <div className='text-gray-700 body-font relative'>
-                <PageTitle title='Teste' />
+                <PageTitle title='Pesquisa' />
                 <div className='container px-5 py-4 mx-auto'>
 
                     <div className='flex flex-col text-center w-full mb-12'>
