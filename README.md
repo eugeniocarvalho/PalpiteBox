@@ -1,7 +1,7 @@
 ## Projeto criado durante a Semana Fullstack
 # PalpiteBox - Semana Fullstack Master
 
-[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
+[![HitCount](http://hits.dwyl.com/eugeniofreire/PalpiteBox.svg)](http://hits.dwyl.com/eugeniofreire/PalpiteBox)
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpitebox-eugeniocarvalho.vercel.app/.
 
