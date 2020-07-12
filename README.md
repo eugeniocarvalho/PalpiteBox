@@ -3,7 +3,7 @@
 
 [![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
 
-Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
+Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpitebox-eugeniocarvalho.vercel.app/.
 
 ![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
 
@@ -44,7 +44,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+* **Eugênio Carvalho** - [LinkedIn](https://www.linkedin.com/in/eugeniofreire/)
 
 
 ## Licença
